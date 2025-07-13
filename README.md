@@ -12,7 +12,9 @@ Durante mi formación como técnica de microinformática y redes, tuve la oportu
 
 He trabajado como Técnica L1 en CaixaBank, brindando soporte técnico y resolviendo incidencias en tiempo real. Actualmente, desempeño el rol de ITSM Consultant en un proyecto de gestión y seguimiento de averías de hardware también en Caixabank, donde combino mi conocimiento técnico con la optimización de procesos IT.
 
-Actualmente estoy realizando un Máster en IA, donde adquiero conocimientos que pueden aplicarse al mundo del QA al permitir mejorar la eficiencia, precisión y velocidad de las pruebas de software.<br>Mi objetivo es seguir creciendo en el mundo del QA y la automatización de pruebas, participando en proyectos que me desafíen y me permitan aprender nuevas tecnologías.<br>¿Buscas un perfil entusiasta, con ganas de aprender y aportar valor a tu equipo? ¡Contáctame! Estaré encantada de conectar y compartir conocimientos.<br>
+Actualmente estoy realizando un Máster en IA, donde adquiero conocimientos que pueden aplicarse al mundo del QA al permitir mejorar la eficiencia, precisión y velocidad de las pruebas de software.<br>Mi objetivo es seguir creciendo en el mundo del QA y la automatización de pruebas, participando en proyectos que me desafíen y me permitan aprender nuevas tecnologías.
+
+¿Buscas un perfil entusiasta, con ganas de aprender y aportar valor a tu equipo? ¡Contáctame! Estaré encantada de conectar y compartir conocimientos.<br>
 
 
 ## 🌐 Socials:
