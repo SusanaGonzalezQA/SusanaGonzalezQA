@@ -1,4 +1,4 @@
-# ¡Hola, bienvenido a mi proyecto! 👋
+# ¡Hola, bienvenid@ a mi proyecto! 👋
 
 ![Emoji animado](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
