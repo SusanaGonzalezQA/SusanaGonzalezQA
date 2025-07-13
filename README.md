@@ -2,7 +2,7 @@
 
 ![Emoji animado](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Este proyecto es mi CV online como QA profesional 🚀.
+Este proyecto inicial es mi CV online como QA profesional 🚀.
 
 ¡Qué bueno verte por aquí! <br>Soy Susana<br>QA Analyst Junior | ITSM Consultant | Apasionada por la calidad del software
 
